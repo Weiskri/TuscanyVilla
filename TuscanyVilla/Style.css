@@ -593,7 +593,7 @@ input {
     font-size: 8px;
     box-sizing: border-box;
     width: 100%;
-    height: 50px;
+    height: 30px;
 }
 section.grid-item.pool-text {
     grid-column: 4 / span 2;
